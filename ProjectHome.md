@@ -1,0 +1,1 @@
+This is a Google Summer of Code project for Apache Jackrabbit with the goal of building a small demo application to show the power of JCR features and show how they can be used in practice.
